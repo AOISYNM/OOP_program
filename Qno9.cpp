@@ -37,6 +37,9 @@ public:
 };
 
 int main() {
+    cout<<"Lab no : 1 / Name : Punjan Pandey / Roll no : 95 / Section : C"<<endl;
+	cout<<"==============================================================="<<endl;
+
     cout << "--- Creating s1 using Default Constructor ---" << endl;
     Student s1;
     s1.display();
