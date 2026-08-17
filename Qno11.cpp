@@ -20,6 +20,8 @@ public:
 int Object::count = 0;
 
 int main() {
+	cout<<"Lab no : 11 / Name : Punjan Pandey / Roll no : 95 / Section : C"<<endl;
+	cout<<"==============================================================="<<endl;
     cout << "--- Creating objects ---" << endl;
     Object obj1;
     Object obj2;

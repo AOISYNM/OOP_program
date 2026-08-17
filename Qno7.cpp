@@ -2,6 +2,9 @@
 using namespace std;
 
 int main(){
+	cout<<"Lab no : 7 / Name : Punjan Pandey / Roll no : 95 / Section : C"<<endl;
+	cout<<"==============================================================="<<endl;
+	
     int n;
 
     cout<<"Enter the number of elements: ";
@@ -29,12 +32,6 @@ int main(){
 
     // Deallocate the dynamically allocated memory
     delete[] arr;
-
-    // Dynamic allocation of a single variable
-    int *single = new int;
-    *single = 100;
-    cout<<"\nSingle dynamic variable value = "<<*single<<endl;
-    delete single;
 
     return 0;
 }

@@ -7,7 +7,7 @@ inline float areaOfCircle(float radius){
 }
 
 int main(){
-	cout<<"Lab no : 1 / Name : Punjan Pandey / Roll no : 95 / Section : C"<<endl;
+	cout<<"Lab no : 5 / Name : Punjan Pandey / Roll no : 95 / Section : C"<<endl;
 	cout<<"==============================================================="<<endl;
 	
     float radius;

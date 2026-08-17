@@ -8,7 +8,7 @@ void swapNumbers(int &a, int &b){
 }
 
 int main(){
-	cout<<"Lab no : 1 / Name : Punjan Pandey / Roll no : 95 / Section : C"<<endl;
+	cout<<"Lab no : 4 / Name : Punjan Pandey / Roll no : 95 / Section : C"<<endl;
 	cout<<"==============================================================="<<endl;
 	
     int x, y;

@@ -37,23 +37,23 @@ float Account::min_balance = 500.0;
 
 int main() {
     const int SIZE = 5;
-    Account accounts[SIZE];
+    Account acc[SIZE];
     
-    cout<<"Lab no : 1 / Name : Punjan Pandey / Roll no : 95 / Section : C"<<endl;
+    cout<<"Lab no : 8 / Name : Punjan Pandey / Roll no : 95 / Section : C"<<endl;
 	cout<<"==============================================================="<<endl;
 
 
     // Read data for each account
     for (int i = 0; i < SIZE; i++) {
         cout << "\n--- Enter details for Account " << i + 1 << " ---\n";
-        accounts[i].readData();
+        acc[i].readData();
     }
 
     // Display data for each account
     cout << "\n--- Account Details ---\n";
     for (int i = 0; i < SIZE; i++) {
         cout << "\nAccount " << i + 1 << ":\n";
-        accounts[i].displayData();
+        acc[i].displayData();
     }
 
     // Display min_balance again via static function

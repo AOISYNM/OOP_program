@@ -41,7 +41,7 @@ void sort(float arr[], int n){
 }
 
 int main(){
-	cout<<"Lab no : 1 / Name : Punjan Pandey / Roll no : 95 / Section : C"<<endl;
+	cout<<"Lab no : 6 / Name : Punjan Pandey / Roll no : 95 / Section : C"<<endl;
 	cout<<"==============================================================="<<endl;
 	
     int intArr[] = {50, 20, 40, 10, 30};

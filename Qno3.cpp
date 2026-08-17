@@ -9,7 +9,7 @@ void displayChar(char ch = '*', int n = 5){
 }
 
 int main(){
-	cout<<"Lab no : 1 / Name : Punjan Pandey / Roll no : 95 / Section : C"<<endl;
+	cout<<"Lab no : 3 / Name : Punjan Pandey / Roll no : 95 / Section : C"<<endl;
 	cout<<"==============================================================="<<endl;
 	
     cout<<"Default call (no arguments): ";

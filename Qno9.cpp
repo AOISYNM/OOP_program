@@ -37,7 +37,7 @@ public:
 };
 
 int main() {
-    cout<<"Lab no : 1 / Name : Punjan Pandey / Roll no : 95 / Section : C"<<endl;
+    cout<<"Lab no : 9 / Name : Punjan Pandey / Roll no : 95 / Section : C"<<endl;
 	cout<<"==============================================================="<<endl;
 
     cout << "--- Creating s1 using Default Constructor ---" << endl;
@@ -51,10 +51,6 @@ int main() {
     cout << "\n--- Creating s3 using Copy Constructor (from s2) ---" << endl;
     Student s3(s2);
     s3.display();
-
-    cout << "\n--- Creating s4 using Copy Constructor (copy-initialization syntax) ---" << endl;
-    Student s4 = s2;
-    s4.display();
 
     return 0;
 }

@@ -20,7 +20,7 @@ class StringOps{
 };
 
 int main(){
-	cout<<"Lab no : 1 / Name : Punjan Pandey / Roll no : 95 / Section : C"<<endl;
+	cout<<"Lab no : 2 / Name : Punjan Pandey / Roll no : 95 / Section : C"<<endl;
 	cout<<"==============================================================="<<endl;
     StringOps obj;
     char text[100];
