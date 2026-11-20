@@ -13,8 +13,8 @@ public:
 };
 
 int main() {
-	cout<<"Lab no : 10 / Name : Punjan Pandey / Roll no : 95 / Section : C"<<endl;
-	cout<<"==============================================================="<<endl;
+	cout<<"Lab no : 1 / Name : Punjan Pandey / Roll no : 95 / Section : C"<<endl;
+    cout<<"==============================================================="<<endl;
 
     cout << "--- Creating object inside main ---" << endl;
     Demo obj;

@@ -16,7 +16,7 @@ int main()
     int a = 5, b = 10;
     float x = 1.5, y = 2.5;
     char c1 = 'A', c2 = 'B';
-
+ 
     swaps(a, b);
     cout << "int: " << a << " " << b << endl;
 

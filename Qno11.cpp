@@ -11,7 +11,7 @@ public:
         cout << "Object created. Total objects so far: " << count << endl;
     }
 
-    static int getCount() {
+    static int getCount() { 
         return count;
     }
 };
