@@ -2,9 +2,6 @@
 using namespace std;
 
 int main(){
-	cout<<"Lab no : 7 / Name : Punjan Pandey / Roll no : 95 / Section : C"<<endl;
-	cout<<"==============================================================="<<endl;
-	
     int n;
 
     cout<<"Enter the number of elements: ";
@@ -18,12 +15,6 @@ int main(){
         cin>>arr[i];
     }
 
-    cout<<"You entered: ";
-    for(int i = 0; i < n; i++){
-        cout<<arr[i]<<" ";
-    }
-    cout<<endl;
-
     int sum = 0;
     for(int i = 0; i < n; i++){
         sum += arr[i];
@@ -33,5 +24,9 @@ int main(){
     // Deallocate the dynamically allocated memory
     delete[] arr;
 
+    cout<<"==============================================================="<<endl;
+
+    cout<<"Lab no : 1 / Name : Punjan Pandey / Roll no : 95 / Section : C"<<endl;
+	
     return 0;
 }
