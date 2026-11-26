@@ -25,6 +25,8 @@ int main(){
     const Actor a2("Eve", 4.5);
     const Actor a3("Ava", 7.2);
     const Actor a4("Harry", 5.0);
+
+	cout<<"----Displaying----"
     
     cout << "Actors with rating greater than 5:"<<endl;
 
