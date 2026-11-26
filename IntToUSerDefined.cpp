@@ -21,6 +21,7 @@ public:
 int main()
 {
     int m = 255;
+    cout<<"Minutes = "<<m<<endl;
 
     TIME t = m;
 
